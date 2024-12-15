@@ -80,9 +80,9 @@
 	<h1 class="text-3xl font-bold text-rose-300">About us</h1>
 </div>
 
-<div class="mx-auto mb-10 flex items-center justify-center">
+<div class="mx-auto p-5 mb-10 flex flex-col items-center justify-center">
 	<p class="text-xl text-gray-400">We are the skibidi clan bro! we love skibidi! onskibidifn!</p>
-	<Button href="/players" variant="link" class="ml-1 p-0 text-xl hover:text-cyan-200"
+	<Button href="/about" variant="link" class="ml-1 p-0 text-xl hover:text-cyan-200"
 		>➜ Learn more...</Button
 	>
 </div>
