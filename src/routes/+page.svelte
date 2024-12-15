@@ -81,7 +81,7 @@
 </div>
 
 <div class="mx-auto p-5 mb-10 flex flex-col items-center justify-center">
-	<p class="text-xl text-gray-400">We are the skibidi clan bro! we love skibidi! onskibidifn!</p>
+	<p class="text-xl text-gray-400">		This is an Invite Only "Clan" that partakes in videogames.   We have a series of games we take part in.	</p>
 	<Button href="/about" variant="link" class="ml-1 p-0 text-xl hover:text-cyan-200"
 		>➜ Learn more...</Button
 	>
