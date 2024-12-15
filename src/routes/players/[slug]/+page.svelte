@@ -1,8 +1,25 @@
 <script lang="ts">
     import type { PageData } from './$types';
     import Button from "$lib/components/ui/button/button.svelte";
+    import * as Table from "$lib/components/ui/table/index.js";
 
-    let { data }: { data: PageData } = $props();
+    interface Rank {
+        game: string;
+        rank: string;
+        peak: string;
+        clanRank?: string;
+        'Clan Rank'?: string;
+        clankRank?: string;
+    }
+
+    let { data }: { data: { player: {
+	socials: any;
+	description: any;
+	id: any;
+	role: any;
+	profileImage: string | null | undefined;
+	name: any; ranks: Rank[] 
+} } } = $props();
 </script>
 
 {#if data.player}
@@ -31,15 +48,37 @@
     <div class="flex items-center mx-auto mt-12 justify-center">
         <h1 class="text-2xl font-bold text-rose-300">Rankings</h1>
     </div>
-    <div class="flex items-center mx-auto mt-12 justify-center">
-        {#if data.player.ranks}
-            {#each data.player.ranks as rank}
-                <div class="ml-5 mr-5">
-                    <h2 class="text-xl font-bold">{rank.game}</h2>
-                    <p class="text-lg">{rank.rank}</p>
-                </div>
-            {/each}
-        {/if}
+    <div class="flex items-center w-[90%] sm:w-[50%] mx-auto mt-4 justify-center">
+        <Table.Root>
+            <Table.Header>
+                <Table.Row>
+                    <Table.Head class="w-[200px]">Game</Table.Head>
+                    <Table.Head>Rank</Table.Head>
+                    <Table.Head>Peak Rank</Table.Head>
+                    <Table.Head class="text-right">Clan Ranking</Table.Head>
+                </Table.Row>
+            </Table.Header>
+            <Table.Body>
+                {#each data.player.ranks as rank: Rank}
+                    <Table.Row>
+                        <Table.Cell class="font-medium">{rank.game}</Table.Cell>
+                        <Table.Cell>{rank.rank}</Table.Cell>
+                        <Table.Cell>{rank.peak}</Table.Cell>
+                        <Table.Cell class="text-right">
+                          {#if 'clanRank' in rank}
+                            {rank.clanRank}
+                          {:else if 'Clan Rank' in rank}
+                            {rank['Clan Rank']}
+                          {:else if 'clankRank' in rank}
+                            {rank.clankRank}
+                          {:else}
+                            N/A
+                          {/if}
+                        </Table.Cell>           
+                    </Table.Row>
+                {/each}
+            </Table.Body>
+        </Table.Root>
     </div>
 {:else}
     <div class="flex items-center mx-auto mt-12 justify-center">
