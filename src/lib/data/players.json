@@ -2,6 +2,69 @@
     "players": [
         {
             "id": 1,
+            "name": "CCR Astra",
+            "role": "Leader",
+            "description": "CCR Astra is the leader of the clan!",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Cardboard 1"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#" 
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#" 
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#" 
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/6c0b8a554c93c836b2bfecc5c5f61d13.webp"
+        },
+        {
+            "id": 2,
+            "name": "Cattn",
+            "role": "Co-Leader",
+            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Champion"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#" 
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#" 
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#" 
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
+        },
+        
+        {
+            "id": 3,
             "name": "Cattn",
             "role": "Co-Leader",
             "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
@@ -32,25 +95,35 @@
             "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
         },
         {
-            "id": 2,
-            "name": "Player Two",
-            "class": "Mage",
-            "rank": "Rookie",
-            "level": 1
-        },
-        {
-            "id": 3,
-            "name": "Player Three",
-            "class": "Mage",
-            "rank": "Rookie",
-            "level": 1
-        },
-        {
             "id": 4,
-            "name": "Player Four",
-            "class": "Mage",
-            "rank": "Rookie",
-            "level": 1
+            "name": "Cattn",
+            "role": "Co-Leader",
+            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Champion"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#" 
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#" 
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#" 
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
         }
     ]
 }

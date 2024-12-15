@@ -9,15 +9,17 @@
     <div class="flex items-center mx-auto mt-12 justify-center mr-10 ml-10">
         <img class="ml-5 h-32 w-32 rounded-full mr-5 border-cyan-400 border-2" alt="{data.player.name} Avatar" src="{data.player.profileImage}"/>
         <div class="ml-5 mr-5">
-            <h1 class="text-4xl font-bold text-cyan-400">{data.player.name} · {data.player.role} · #{data.player.id}</h1>
+            <h1 class="text-4xl font-bold text-cyan-400 oswald-font-players">{data.player.name} · {data.player.role} · #{data.player.id}</h1>
             <p class="mt-2 text-xl text-gray-400">{data.player.description}</p>
             <div class="flex">
                 {#if data.player.socials}
                     {#each data.player.socials as social, i}
                         <!-- svelte-ignore attribute_quoted -->
-                        <Button href="{social.link}" variant="link" class="hover:text-cyan-200 p-0">{social.name}</Button>
+                         <div class="oswald-font-players">
+                            <Button href="{social.link}" variant="link" class="hover:text-cyan-200 p-0">{social.name}</Button>
+                        </div>
                         {#if i < data.player.socials.length - 1}
-                            <h1 class="text-blue-400 text-3xl ml-2 mr-2"> · </h1>
+                        <h1 class="text-blue-400 text-3xl ml-2 mr-2"> · </h1>
                         {/if}
                     {/each}
                 {/if}
@@ -44,3 +46,12 @@
         <h1 class="text-2xl font-bold text-rose-300">Player Not Found!</h1>
     </div>
 {/if}
+
+<style>
+    .oswald-font-players {
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: bold;
+    }
+</style>

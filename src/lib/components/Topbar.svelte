@@ -5,7 +5,7 @@
 </script>
 
 <div class="sticky top-0 border-b not-supersm:flex flex justify-center bg-background supersm:hidden">
-  <div>
+  <div class="oswald-font-topbar">
     <Button href="/" variant="link" class="hover:text-red-400">Home</Button>
     <DropdownMenu.Root>
         <DropdownMenu.Trigger class={buttonVariants({ variant: "link" })} >
@@ -13,9 +13,9 @@
         </DropdownMenu.Trigger>
         <DropdownMenu.Content>
           <DropdownMenu.Group>
-            <a href="/players"><DropdownMenu.Item>Players</DropdownMenu.Item></a>
-            <a href="/about"><DropdownMenu.Item>About Us</DropdownMenu.Item></a>
-            <a href="/join"><DropdownMenu.Item>Join</DropdownMenu.Item></a>
+            <a class="oswald-font-drop" href="/players"><DropdownMenu.Item>Players</DropdownMenu.Item></a>
+            <a class="oswald-font-drop" href="/about"><DropdownMenu.Item>About Us</DropdownMenu.Item></a>
+            <a class="oswald-font-drop" href="/join"><DropdownMenu.Item>Join</DropdownMenu.Item></a>
           </DropdownMenu.Group>
         </DropdownMenu.Content>
     </DropdownMenu.Root>
@@ -23,3 +23,18 @@
     <Button href="/rankings" variant="link" class="hover:text-red-400">Rankings</Button>
   </div>
 </div>
+
+<style>
+   .oswald-font-topbar {
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: bold;
+    }
+    .oswald-font-drop {
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: bold;
+    }
+</style>

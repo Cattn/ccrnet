@@ -1,25 +1,36 @@
 <script lang="ts">
     import Button from "$lib/components/ui/button/button.svelte";
+    import { players } from '$lib/data/players.json';
 </script>
 
-<div class="flex items-center mx-auto mt-12 justify-center mr-10 ml-10">
-    <img class="ml-5 h-32 w-32 rounded-full mr-5 border-cyan-400 border-2" alt="Cattn Avatar" src="https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"/>
-    <div class="ml-5 mr-5">
-        <h1 class="text-4xl font-bold text-cyan-400">Cattn · Co-Leader · #001</h1>
-        <p class="mt-2 text-xl text-gray-400">Cattn is a Co-Leader of CCR! He's making this website rn...</p>
-        <div class="flex">
-            <Button href="https://discord.com/users/523927057722376204" variant="link" class="hover:text-cyan-200 p-0">Discord</Button>
-            <h1 class="text-blue-400 text-3xl ml-2 mr-2"> · </h1> 
-            <Button href="https://discord.com/users/523927057722376204" variant="link" class="hover:text-cyan-200 p-0">Tiktok</Button>
-            <h1 class="text-blue-400 text-3xl ml-2 mr-2"> · </h1> 
-            <Button href="https://discord.com/users/523927057722376204" variant="link" class="hover:text-cyan-200 p-0">Twitter</Button>
-            <h1 class="text-blue-400 text-3xl ml-2 mr-2"> · </h1>
-            <Button href="https://discord.com/users/523927057722376204" variant="link" class="hover:text-cyan-200 p-0">Spotify</Button>
-        </div>
+<div class="flex flex-col gap-4 items-center mt-3">
+    <h1 class="text-3xl font-bold oswald-font-players underline">Players</h1>
+    <div class="flex flex-wrap gap-2 flex-col mr-0 sm:mr-14">
+        {#each players as player}
+            <div class="flex items-center mt-4 justify-center bg-secondary rounded-md w-full py-2 drop-shadow-[0px_4px_4px_rgba(0,0,0,0.25)] sm:mx-10 sm:py-4 oswald-font-players-2">
+                <img class="ml-3 h-24 w-24 rounded-full mr-3 border-cyan-400 border-2 sm:ml-5 sm:mr-5 sm:h-32 sm:w-32" alt="{player.name} Avatar" src="{player.profileImage}"/>
+                <div class="ml-3 mr-3 sm:ml-3 sm:mr-3">
+                    <h1 class="text-2xl font-bold text-cyan-400 sm:text-4xl">{player.name} · {player.role}</h1>
+                    <Button href="/players/{player.id}" variant="link" class="hover:text-cyan-200 p-0">View Profile</Button>
+                </div>
+            </div>
+        {/each}
     </div>
 </div>
-<hr class="my-8 border-t-2 border-gray-300"/>
 
-<div class="flex items-center mx-auto mt-12 justify-center">
-    <h1 class="text-2xl font-bold text-rose-300">Rankings</h1>
-</div>
+
+<style>
+    .oswald-font-players {
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: bold;
+    }
+
+    .oswald-font-players-2 {
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 200;
+        font-style: normal;
+    }
+</style>
