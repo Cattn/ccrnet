@@ -9,20 +9,36 @@
 				{
 					"game": "Fortnite",
 					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
+					"peak": "Unreal",
+					"BR Rank": "Champion",
+					"ZB Rank": "Silver 1",
+					"BR Reload Rank": "Cardboard 1",
+					"ZB Reload Rank": "Cardboard 1",
+					"Wins": 21,
+					"Peak Rank": "Elite",
+					"Clan Rank": "#3",
+					"clankRank": "#3",
+					"Crowns": 1
 				},
 				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
+					"game": "Minecraft",
+					"rank": "N/A",
+					"peak": "N/A",
+					"W/L Ratio": "3.0",
+					"Peak Rank": "N/A",
+					"Duels Won": 20,
+					"Players Killed": 4,
+					"clankRank": "#3",
+					"Clan Rank": "#3"
 				},
 				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
+					"game": "Battlefield 2042",
+					"rank": "N/A",
+					"peak": "N/A",
+					"Revives": "16",
+					"Kills": "42",
+					"clankRank": "#2",
+					"Clan Rank": "#2"
 				}
 			],
 			"socials": [
@@ -53,21 +69,17 @@
 			"ranks": [
 				{
 					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
-				},
-				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
-				},
-				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
+					"rank": "Unreal",
+					"peak": "Unreal",
+					"BR Rank": "Champion",
+					"ZB Rank": "Elite",
+					"BR Reload Rank": "Unreal",
+					"ZB Reload Rank": "Diamond 3",
+					"Wins": 999,
+					"Peak Rank": "Unreal",
+					"Clan Rank": "#1",
+					"clankRank": "#1",
+					"Crowns": 50
 				}
 			],
 			"socials": [
@@ -93,7 +105,7 @@
 
 		{
 			"id": 3,
-			"name": "REAL REAL",
+			"name": "CCR Testy",
 			"role": "Co-Leader",
 			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
 			"ranks": [
@@ -105,11 +117,11 @@
 					"ZB Rank": "Bronze 1",
 					"BR Reload Rank": "Bronze 1",
 					"ZB Reload Rank": "Bronze 1",
-					"Wins": 1,
+					"Wins": 12,
 					"Peak Rank": "Elite",
-					"Clan Rank": "#1",
-					"clankRank": "#1",
-					"Crowns": 1
+					"Clan Rank": "#2",
+					"clankRank": "#2",
+					"Crowns": 12
 				},
 				{
 					"game": "Minecraft",
@@ -130,51 +142,6 @@
 					"Kills": "43",
 					"clankRank": "#1",
 					"Clan Rank": "#1"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
-		},
-		{
-			"id": 4,
-			"name": "Cattn",
-			"role": "Co-Leader",
-			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
-				},
-				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
-				},
-				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Challenger",
-					"clanRank": "#1"
 				}
 			],
 			"socials": [
