@@ -3,7 +3,7 @@
     import * as Carousel from "$lib/components/ui/carousel/index.js";
     import Autoplay from "embla-carousel-autoplay";
 
-    let videos = ["cattn_clip_1.webm", "cattn_vid_2.webm", "cod_vid_1.webm", "fn_vid_1.webm", "other_game_1.webm"]
+    let videos = ["cattn_clip_1.webm", "cattn_vid_2.webm", "cod_vid_1.webm", "fn_vid_1.webm", "other_vid_1.mp4"]
 </script>
 
 <div class="flex flex-col items-center mx-auto mt-12 justify-center">
