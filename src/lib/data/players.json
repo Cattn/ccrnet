@@ -1,201 +1,201 @@
 {
-    "players": [
-        {
-            "id": 1,
-            "name": "CCR Astra",
-            "role": "Leader",
-            "description": "CCR Astra is the leader of the clan!",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                },
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                },
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#" 
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#" 
-                },
-                {
-                    "name": "Spotify",
-                    "link": "#" 
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/6c0b8a554c93c836b2bfecc5c5f61d13.webp"
-        },
-        {
-            "id": 2,
-            "name": "Cattn",
-            "role": "Co-Leader",
-            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                },
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                },
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#" 
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#" 
-                },
-                {
-                    "name": "Spotify",
-                    "link": "#" 
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
-        },
-        
-        {
-            "id": 3,
-            "name": "REAL REAL",
-            "role": "Co-Leader",
-            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Unreal",
-                    "BR Rank": "Champion",
-                    "ZB Rank": "Bronze 1",
-                    "BR Reload Rank": "Bronze 1",
-                    "ZB Reload Rank": "Bronze 1",
-                    "Wins": 1,
-                    "Peak Rank": "Elite",
-                    "Clan Rank": "#1",
-                    "clankRank": "#1",
-                    "Crowns": 1
-                },
-                {
-                    "game": "Minecraft",
-                    "rank": "N/A",
-                    "peak": "N/A",
-                    "W/L Ratio": "1.0",
-                    "Peak Rank": "N/A",
-                    "Duels Won": 1,
-                    "Players Killed": 1,
-                    "clankRank": "#2",
-                    "Clan Rank": "#1"
-                },
-                {
-                    "game": "Battlefield 2042",
-                    "rank": "N/A",
-                    "peak": "N/A",
-                    "Revives": "36",
-                    "Kills": "43",
-                    "clankRank": "#1",
-                    "Clan Rank": "#1"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#" 
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#" 
-                },
-                {
-                    "name": "Spotify",
-                    "link": "#" 
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
-        },
-        {
-            "id": 4,
-            "name": "Cattn",
-            "role": "Co-Leader",
-            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                },
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                },
-                {
-                    "game": "Fortnite",
-                    "rank": "Champion",
-                    "peak": "Challenger",
-                    "clanRank": "#1"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#" 
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#" 
-                },
-                {
-                    "name": "Spotify",
-                    "link": "#" 
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
-        }
-    ]
+	"players": [
+		{
+			"id": 1,
+			"name": "CCR Astra",
+			"role": "Leader",
+			"description": "CCR Astra is the leader of the clan!",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				},
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				},
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/6c0b8a554c93c836b2bfecc5c5f61d13.webp"
+		},
+		{
+			"id": 2,
+			"name": "Cattn",
+			"role": "Co-Leader",
+			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				},
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				},
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
+		},
+
+		{
+			"id": 3,
+			"name": "REAL REAL",
+			"role": "Co-Leader",
+			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Unreal",
+					"BR Rank": "Champion",
+					"ZB Rank": "Bronze 1",
+					"BR Reload Rank": "Bronze 1",
+					"ZB Reload Rank": "Bronze 1",
+					"Wins": 1,
+					"Peak Rank": "Elite",
+					"Clan Rank": "#1",
+					"clankRank": "#1",
+					"Crowns": 1
+				},
+				{
+					"game": "Minecraft",
+					"rank": "N/A",
+					"peak": "N/A",
+					"W/L Ratio": "1.0",
+					"Peak Rank": "N/A",
+					"Duels Won": 1,
+					"Players Killed": 1,
+					"clankRank": "#2",
+					"Clan Rank": "#1"
+				},
+				{
+					"game": "Battlefield 2042",
+					"rank": "N/A",
+					"peak": "N/A",
+					"Revives": "36",
+					"Kills": "43",
+					"clankRank": "#1",
+					"Clan Rank": "#1"
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
+		},
+		{
+			"id": 4,
+			"name": "Cattn",
+			"role": "Co-Leader",
+			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				},
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				},
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Challenger",
+					"clanRank": "#1"
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
+		}
+	]
 }
