@@ -16,8 +16,8 @@
 					"ZB Reload Rank": "Unranked",
 					"Wins": 0,
 					"Peak Rank": "Elite",
-					"Clan Rank": "#3",
-					"clankRank": "#3",
+					"Clan Rank": "#2",
+					"clankRank": "#2",
 					"Crowns": 0
 				},{
 					"game": "Overwatch 2",
@@ -108,8 +108,8 @@
 					"ZB Reload Rank": "Unranked",
 					"Wins": 0,
 					"Peak Rank": "Diamond 2",
-					"Clan Rank": "#4",
-					"clankRank": "#4",
+					"Clan Rank": "#3",
+					"clankRank": "#3",
 					"Crowns": 0
 				}
 			],
@@ -150,22 +150,8 @@
 					"ZB Reload Rank": "Unknown",
 					"Wins": 0,
 					"Peak Rank": "Unknown",
-					"Clan Rank": "#5",
-					"clankRank": "#5",
-					"Crowns": 0
-				},
-				{
-					"game": "Bingle Nite",
-					"rank": "Unknown",
-					"peak": "Unknown",
-					"BR Rank": "Unknown",
-					"ZB Rank": "Unknown",
-					"BR Reload Rank": "Unknown",
-					"ZB Reload Rank": "Unknown",
-					"Wins": 0,
-					"Peak Rank": "Unknown",
-					"Clan Rank": "#2",
-					"clankRank": "#2",
+					"Clan Rank": "#4",
+					"clankRank": "#4",
 					"Crowns": 0
 				}
 			],
@@ -187,11 +173,52 @@
 					"link": "#"
 				}
 			],
-			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
+			"profileImage": "https://cdn.discordapp.com/avatars/973034664396730388/e29068b2a9def91fa8f12f7109d7d95d.webp"
 		},
 
 		{
 			"id": 5,
+			"name": "CCR Deiker51",
+			"role": "Co-Leader",
+			"description": "No Description Set",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Unknown",
+					"peak": "Unknown",
+					"BR Rank": "Unknown",
+					"ZB Rank": "Unknown",
+					"BR Reload Rank": "Unknown",
+					"ZB Reload Rank": "Unknown",
+					"Wins": 12,
+					"Peak Rank": "Unknown",
+					"Clan Rank": "#5",
+					"clankRank": "#5",
+					"Crowns": 12
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://cdn.discordapp.com/avatars/934327827472465920/7721e2ba5338eb47087c38a392ef3c92.png"
+		},
+		{
+			"id": 6,
 			"name": "CCR Testy",
 			"role": "Co-Leader",
 			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
