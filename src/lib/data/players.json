@@ -14,11 +14,9 @@
 					"ZB Rank": "Unranked",
 					"BR Reload Rank": "Silver 1",
 					"ZB Reload Rank": "Unranked",
-					"Wins": 0,
 					"Peak Rank": "Elite",
 					"Clan Rank": "#2",
-					"clankRank": "#2",
-					"Crowns": 0
+					"clankRank": "#2"
 				},{
 					"game": "Overwatch 2",
 					"rank": "Unranked",
@@ -64,11 +62,9 @@
 					"ZB Rank": "Elite",
 					"BR Reload Rank": "Unreal",
 					"ZB Reload Rank": "Diamond 3",
-					"Wins": 999,
 					"Peak Rank": "Unreal",
 					"Clan Rank": "#1",
-					"clankRank": "#1",
-					"Crowns": 50
+					"clankRank": "#1"
 				}
 			],
 			"socials": [
@@ -106,11 +102,9 @@
 					"ZB Rank": "Unranked",
 					"BR Reload Rank": "Unranked",
 					"ZB Reload Rank": "Unranked",
-					"Wins": 0,
 					"Peak Rank": "Diamond 2",
 					"Clan Rank": "#3",
-					"clankRank": "#3",
-					"Crowns": 0
+					"clankRank": "#3"
 				}
 			],
 			"socials": [
@@ -148,11 +142,9 @@
 					"ZB Rank": "Unknown",
 					"BR Reload Rank": "Unknown",
 					"ZB Reload Rank": "Unknown",
-					"Wins": 0,
 					"Peak Rank": "Unknown",
 					"Clan Rank": "#4",
-					"clankRank": "#4",
-					"Crowns": 0
+					"clankRank": "#4"
 				}
 			],
 			"socials": [
@@ -179,7 +171,7 @@
 		{
 			"id": 5,
 			"name": "CCR Deiker51",
-			"role": "Co-Leader",
+			"role": "Member",
 			"description": "No Description Set",
 			"ranks": [
 				{
@@ -190,11 +182,9 @@
 					"ZB Rank": "Unknown",
 					"BR Reload Rank": "Unknown",
 					"ZB Reload Rank": "Unknown",
-					"Wins": 12,
 					"Peak Rank": "Unknown",
 					"Clan Rank": "#5",
-					"clankRank": "#5",
-					"Crowns": 12
+					"clankRank": "#5"
 				}
 			],
 			"socials": [
@@ -220,22 +210,20 @@
 		{
 			"id": 6,
 			"name": "CCR Testy",
-			"role": "Co-Leader",
-			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+			"role": "Member",
+			"description": "No Description Set",
 			"ranks": [
 				{
 					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Unreal",
-					"BR Rank": "Champion",
-					"ZB Rank": "Bronze 1",
-					"BR Reload Rank": "Bronze 1",
-					"ZB Reload Rank": "Bronze 1",
-					"Wins": 12,
-					"Peak Rank": "Elite",
-					"Clan Rank": "#2",
-					"clankRank": "#2",
-					"Crowns": 12
+					"rank": "Unknown",
+					"peak": "Unknown",
+					"BR Rank": "Unknown",
+					"ZB Rank": "Unknown",
+					"BR Reload Rank": "Unknown",
+					"ZB Reload Rank": "Unknown",
+					"Peak Rank": "Unknown",
+					"Clan Rank": "#6",
+					"clankRank": "#6"
 				},
 				{
 					"game": "Minecraft",
