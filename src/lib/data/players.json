@@ -19,6 +19,15 @@
 					"Clan Rank": "#3",
 					"clankRank": "#3",
 					"Crowns": 0
+				},{
+					"game": "Overwatch 2",
+					"rank": "Unranked",
+					"peak": "Platinum 2",
+					"Peak Rank": "Platinum 2",
+					"Clan Rank": "#1",
+					"clankRank": "#1",
+					"Device": "Console"
+					
 				}
 			],
 			"socials": [
@@ -28,7 +37,7 @@
 				},
 				{
 					"name": "Twitter",
-					"link": "#"
+					"link": "https://x.com/ccrastra007"
 				},
 				{
 					"name": "Tiktok",
