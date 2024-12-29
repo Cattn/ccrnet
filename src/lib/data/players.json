@@ -8,12 +8,13 @@
 			"ranks": [
 				{
 					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Unreal",
-					"BR Rank": "Silver 2",
+					"rank": "Platinum 1",
+					"peak": "Elite",
+					"BR Rank": "Platinum 1",
 					"ZB Rank": "Unranked",
 					"BR Reload Rank": "Silver 1",
 					"ZB Reload Rank": "Unranked",
+					"Ballistic": "Platinum 1",
 					"Peak Rank": "Elite",
 					"Clan Rank": "#2",
 					"clankRank": "#2"
@@ -96,12 +97,13 @@
 			"ranks": [
 				{
 					"game": "Fortnite",
-					"rank": "Unranked",
+					"rank": "Silver 3",
 					"peak": "Diamond 2",
 					"BR Rank": "Unranked",
 					"ZB Rank": "Unranked",
 					"BR Reload Rank": "Unranked",
 					"ZB Reload Rank": "Unranked",
+					"Ballistic": "Gold 1",
 					"Peak Rank": "Diamond 2",
 					"Clan Rank": "#3",
 					"clankRank": "#3"
@@ -132,7 +134,7 @@
 			"id": 4,
 			"name": "CCR Drift",
 			"role": "Competitive Member",
-			"description": "Casual but Competitive Gamer who plays a varity of different games.",
+			"description": "Casual but Competitive Gamer who plays a variety of different games.",
 			"ranks": [
 				{
 					"game": "Fortnite",
@@ -221,6 +223,7 @@
 					"ZB Rank": "Unknown",
 					"BR Reload Rank": "Unknown",
 					"ZB Reload Rank": "Unknown",
+					"Ballistic": "Unknown",
 					"Peak Rank": "Unknown",
 					"Clan Rank": "#6",
 					"clankRank": "#6"
