@@ -8,13 +8,13 @@
 			"ranks": [
 				{
 					"game": "Fortnite",
-					"rank": "Platinum 1",
+					"rank": "Platinum 2",
 					"peak": "Elite",
 					"BR Rank": "Platinum 1",
 					"ZB Rank": "Unranked",
 					"BR Reload Rank": "Silver 1",
 					"ZB Reload Rank": "Unranked",
-					"Ballistic": "Platinum 1",
+					"Ballistic": "Platinum 3",
 					"Peak Rank": "Elite",
 					"Clan Rank": "#2",
 					"clankRank": "#2"
@@ -40,7 +40,7 @@
 				},
 				{
 					"name": "Tiktok",
-					"link": "#"
+					"link": "https://www.tiktok.com/@ccr_astra"
 				},
 				{
 					"name": "Spotify",
@@ -93,7 +93,7 @@
 			"id": 3,
 			"name": "CCR Azrael",
 			"role": "Co-Leader",
-			"description": "CCR Azrael is a rambunctious member of CCR, very involved but not too active.",
+			"description": "CCR Azrael is a rambunctious Co-Leader of CCR, very involved but not too active.",
 			"ranks": [
 				{
 					"game": "Fortnite",
@@ -127,7 +127,7 @@
 					"link": "#"
 				}
 			],
-			"profileImage": "https://cdn.discordapp.com/avatars/1142351377234923560/73fcb316d0e71731f67d4da52c760377.webp"
+			"profileImage": "https://picsum.photos/200/300?grayscale"
 		},
 
 		{
@@ -173,7 +173,7 @@
 		{
 			"id": 5,
 			"name": "CCR Deiker51",
-			"role": "Member",
+			"role": "Competitive Member",
 			"description": "No Description Set",
 			"ranks": [
 				{
@@ -211,9 +211,9 @@
 		},
 		{
 			"id": 6,
-			"name": "CCR Testy",
+			"name": "CCR Blade",
 			"role": "Member",
-			"description": "No Description Set",
+			"description": "He's just better.",
 			"ranks": [
 				{
 					"game": "Fortnite",
@@ -227,26 +227,6 @@
 					"Peak Rank": "Unknown",
 					"Clan Rank": "#6",
 					"clankRank": "#6"
-				},
-				{
-					"game": "Minecraft",
-					"rank": "N/A",
-					"peak": "N/A",
-					"W/L Ratio": "1.0",
-					"Peak Rank": "N/A",
-					"Duels Won": 1,
-					"Players Killed": 1,
-					"clankRank": "#2",
-					"Clan Rank": "#1"
-				},
-				{
-					"game": "Battlefield 2042",
-					"rank": "N/A",
-					"peak": "N/A",
-					"Revives": "36",
-					"Kills": "43",
-					"clankRank": "#1",
-					"Clan Rank": "#1"
 				}
 			],
 			"socials": [
@@ -267,7 +247,87 @@
 					"link": "#"
 				}
 			],
-			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
+			"profileImage": "https://picsum.photos/200/300?grayscale"
+		},
+		{
+			"id": 7,
+			"name": "Placeholder",
+			"role": "Member",
+			"description": "No Description Set",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Unknown",
+					"peak": "Unknown",
+					"BR Rank": "Unknown",
+					"ZB Rank": "Unknown",
+					"BR Reload Rank": "Unknown",
+					"ZB Reload Rank": "Unknown",
+					"Ballistic": "Unknown",
+					"Peak Rank": "Unknown",
+					"Clan Rank": "#6",
+					"clankRank": "#6"
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://picsum.photos/200/300?grayscale"
+		},
+		{
+			"id": 8,
+			"name": "Placeholder",
+			"role": "Member",
+			"description": "No Description Set",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Unknown",
+					"peak": "Unknown",
+					"BR Rank": "Unknown",
+					"ZB Rank": "Unknown",
+					"BR Reload Rank": "Unknown",
+					"ZB Reload Rank": "Unknown",
+					"Ballistic": "Unknown",
+					"Peak Rank": "Unknown",
+					"Clan Rank": "#6",
+					"clankRank": "#6"
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://picsum.photos/200/300?grayscale"
 		}
 	]
 }
