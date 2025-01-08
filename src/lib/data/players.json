@@ -218,13 +218,13 @@
 				{
 					"game": "Fortnite",
 					"rank": "Unknown",
-					"peak": "Unknown",
-					"BR Rank": "Unknown",
-					"ZB Rank": "Unknown",
-					"BR Reload Rank": "Unknown",
-					"ZB Reload Rank": "Unknown",
-					"Ballistic": "Unknown",
-					"Peak Rank": "Unknown",
+					"peak": "Platinum 1",
+					"BR Rank": "Silver 1",
+					"ZB Rank": "Unranked",
+					"BR Reload Rank": "Bronze 2",
+					"ZB Reload Rank": "Bronze 2",
+					"Ballistic": "Bronze 3",
+					"Peak Rank": "Platinum 1",
 					"Clan Rank": "#6",
 					"clankRank": "#6"
 				}
@@ -247,26 +247,26 @@
 					"link": "#"
 				}
 			],
-			"profileImage": "https://picsum.photos/200/300?grayscale"
+			"profileImage": "https://cdn.discordapp.com/avatars/1180329702162960516/754acf4977f597ac717371112b245d68.webp"
 		},
 		{
 			"id": 7,
-			"name": "Placeholder",
+			"name": "CCR Halo",
 			"role": "Member",
 			"description": "No Description Set",
 			"ranks": [
 				{
 					"game": "Fortnite",
-					"rank": "Unknown",
-					"peak": "Unknown",
-					"BR Rank": "Unknown",
-					"ZB Rank": "Unknown",
-					"BR Reload Rank": "Unknown",
-					"ZB Reload Rank": "Unknown",
-					"Ballistic": "Unknown",
-					"Peak Rank": "Unknown",
-					"Clan Rank": "#6",
-					"clankRank": "#6"
+					"rank": "Unranked",
+					"peak": "Silver 3",
+					"BR Rank": "Unranked",
+					"ZB Rank": "Unranked",
+					"BR Reload Rank": "Unranked",
+					"ZB Reload Rank": "Unranked",
+					"Ballistic": "Unranked",
+					"Peak Rank": "Silver 3",
+					"Clan Rank": "#7",
+					"clankRank": "#7"
 				}
 			],
 			"socials": [
@@ -305,8 +305,8 @@
 					"ZB Reload Rank": "Unknown",
 					"Ballistic": "Unknown",
 					"Peak Rank": "Unknown",
-					"Clan Rank": "#6",
-					"clankRank": "#6"
+					"Clan Rank": "#8",
+					"clankRank": "#8"
 				}
 			],
 			"socials": [
