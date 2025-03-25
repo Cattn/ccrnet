@@ -4,7 +4,7 @@
 
 <div class="mx-6 mt-12 flex flex-col items-center justify-center">
 	<h1 class="oswald-font text-4xl font-black">Minecraft Server</h1>
-	<p class="mt-2 text-xl text-gray-400">Unfortunatly, we had to close the CCR Realm because we are broke and can't pau for it all the time. This page will update if the realm becomes available again.</p>
+	<p class="mt-2 text-xl text-gray-400">Unfortunatly, we had to close the CCR Realm because we are broke and can't pay for it all the time. This page will update if the realm becomes available again.</p>
 </div>
 
 <style>
