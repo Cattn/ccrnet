@@ -130,7 +130,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/1330715541245132804/78befadbffe3efd038fd02aae4bf0b56.webp?size=1024&format=webp&width=768&height=768"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "CCR Drift",
             "role": "Competitive Member",
             "description": "Casual but Competitive Gamer who plays a variety of different games.",
@@ -169,7 +169,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/973034664396730388/e29068b2a9def91fa8f12f7109d7d95d.webp"
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "CCR Deiker51",
             "role": "Competitive Member",
             "description": "No Description Set",
@@ -208,7 +208,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/934327827472465920/b0408bd30f065aa39f0df85421db261b.webp?size=1024&format=webp&width=768&height=768"
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "CCR Blade",
             "role": "Member",
             "description": "He's just better.",
@@ -248,7 +248,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/1180329702162960516/754acf4977f597ac717371112b245d68.webp"
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "CCR Halo",
             "role": "Member",
             "description": "No Description Set",
@@ -288,7 +288,7 @@
             "profileImage": "https://picsum.photos/200/300?grayscale"
         },
         {
-            "id": 8,
+            "id": 4,
             "name": "CCR Cactus",
             "role": "Admin",
             "description": "No Description Set",
