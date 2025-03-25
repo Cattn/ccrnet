@@ -8,21 +8,21 @@
 			"ranks": [
 				{
 					"game": "Fortnite",
-					"rank": "Platinum 2",
-					"peak": "Champion",
-					"BR Rank": "Diamond 2",
+					"rank": "Diamond 3",
+					"peak": "Unreal",
+					"BR Rank": "Silver 3",
 					"ZB Rank": "Unranked",
-					"BR Reload Rank": "Champion",
-					"ZB Reload Rank": "Unranked",
-					"Ballistic": "Diamond 2",
-					"Peak Rank": "Champion",
+					"BR Reload Rank": "Diamond 2",
+					"ZB Reload Rank": "Silver 3",
+					"Ballistic": "Diamond 3",
+					"Peak Rank": "Unreal",
 					"Clan Rank": "#2",
 					"clankRank": "#2"
 				},{
 					"game": "Overwatch 2",
-					"rank": "Unranked",
-					"peak": "Platinum 2",
-					"Peak Rank": "Platinum 2",
+					"rank": "Gold 2",
+					"peak": "Platinum 5",
+					"Peak Rank": "Platinum 5",
 					"Clan Rank": "#1",
 					"clankRank": "#1",
 					"Device": "Console"
@@ -59,10 +59,11 @@
 					"game": "Fortnite",
 					"rank": "Unreal",
 					"peak": "Unreal",
-					"BR Rank": "Champion",
-					"ZB Rank": "Elite",
-					"BR Reload Rank": "Unreal",
+					"BR Rank": "Gold 2",
+					"ZB Rank": "Unranked",
+					"BR Reload Rank": "Platinum 3",
 					"ZB Reload Rank": "Diamond 3",
+					"Ballistic": "Unreal"
 					"Peak Rank": "Unreal",
 					"Clan Rank": "#1",
 					"clankRank": "#1"
@@ -291,6 +292,46 @@
 		},
 		{
 			"id": 8,
+			"name": "CCR Cactus",
+			"role": "Admin",
+			"description": "No Description Set",
+			"ranks": [
+				{
+					"game": "Fortnite",
+					"rank": "Champion",
+					"peak": "Champion",
+					"BR Rank": "Silver 1",
+					"ZB Rank": "Bronse 3",
+					"BR Reload Rank": "Champion",
+					"ZB Reload Rank": "Unranked",
+					"Ballistic": "Gold 3",
+					"Peak Rank": "Champion",
+					"Clan Rank": "#3",
+					"clankRank": "#3"
+				}
+			],
+			"socials": [
+				{
+					"name": "Discord",
+					"link": "#"
+				},
+				{
+					"name": "Twitter",
+					"link": "#"
+				},
+				{
+					"name": "Tiktok",
+					"link": "#"
+				},
+				{
+					"name": "Spotify",
+					"link": "#"
+				}
+			],
+			"profileImage": "https://cdn.discordapp.com/avatars/813168384266469426/8c4aa76ec678eb14ae27074df5255309.webp?size=1024&format=webp&width=768&height=768"
+		},
+		{
+			"id": 9,
 			"name": "Placeholder",
 			"role": "Member",
 			"description": "No Description Set",
