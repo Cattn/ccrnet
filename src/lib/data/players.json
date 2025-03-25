@@ -1,374 +1,371 @@
 {
-	"players": [
-		{
-			"id": 1,
-			"name": "CCR Astra",
-			"role": "Leader",
-			"description": "I own the clan :D",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Diamond 3",
-					"peak": "Unreal",
-					"BR Rank": "Silver 3",
-					"ZB Rank": "Unranked",
-					"BR Reload Rank": "Diamond 2",
-					"ZB Reload Rank": "Silver 3",
-					"Ballistic": "Diamond 3",
-					"Peak Rank": "Unreal",
-					"Clan Rank": "#2",
-					"clankRank": "#2"
-				},{
-					"game": "Overwatch 2",
-					"rank": "Gold 2",
-					"peak": "Platinum 5",
-					"Peak Rank": "Platinum 5",
-					"Clan Rank": "#1",
-					"clankRank": "#1",
-					"Device": "Console"
-					
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": ""
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/899fbead31f82b49b455096135ee4c2c.webp?size=1024&format=webp&width=768&height=768"
-		},
-		{
-			"id": 2,
-			"name": "Cattn",
-			"role": "Co-Leader",
-			"description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Unreal",
-					"peak": "Unreal",
-					"BR Rank": "Gold 2",
-					"ZB Rank": "Unranked",
-					"BR Reload Rank": "Platinum 3",
-					"ZB Reload Rank": "Diamond 3",
-					"Ballistic": "Unreal"
-					"Peak Rank": "Unreal",
-					"Clan Rank": "#1",
-					"clankRank": "#1"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/d6b9246a30bd8d2600165827f772b6c1.webp?size=1024&format=webp&width=768&height=768"
-		},
-
-		{
-			"id": 3,
-			"name": "CCR Azrael",
-			"role": "Co-Leader",
-			"description": "CCR Azrael is a rambunctious Co-Leader of CCR, very involved but not too active.",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Silver 3",
-					"peak": "Diamond 2",
-					"BR Rank": "Unranked",
-					"ZB Rank": "Unranked",
-					"BR Reload Rank": "Unranked",
-					"ZB Reload Rank": "Unranked",
-					"Ballistic": "Gold 1",
-					"Peak Rank": "Diamond 2",
-					"Clan Rank": "#3",
-					"clankRank": "#3"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Twitch",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/1330715541245132804/78befadbffe3efd038fd02aae4bf0b56.webp?size=1024&format=webp&width=768&height=768"
-		},
-
-		{
-			"id": 4,
-			"name": "CCR Drift",
-			"role": "Competitive Member",
-			"description": "Casual but Competitive Gamer who plays a variety of different games.",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Unknown",
-					"peak": "Unknown",
-					"BR Rank": "Unknown",
-					"ZB Rank": "Unknown",
-					"BR Reload Rank": "Unknown",
-					"ZB Reload Rank": "Unknown",
-					"Peak Rank": "Unknown",
-					"Clan Rank": "#5",
-					"clankRank": "#5"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/973034664396730388/e29068b2a9def91fa8f12f7109d7d95d.webp"
-		},
-
-		{
-			"id": 5,
-			"name": "CCR Deiker51",
-			"role": "Competitive Member",
-			"description": "No Description Set",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Unknown",
-					"peak": "Unknown",
-					"BR Rank": "Unknown",
-					"ZB Rank": "Unknown",
-					"BR Reload Rank": "Unknown",
-					"ZB Reload Rank": "Unknown",
-					"Peak Rank": "Unknown",
-					"Clan Rank": "#6",
-					"clankRank": "#6"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/934327827472465920/b0408bd30f065aa39f0df85421db261b.webp?size=1024&format=webp&width=768&height=768"
-		},
-		{
-			"id": 6,
-			"name": "CCR Blade",
-			"role": "Member",
-			"description": "He's just better.",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Unknown",
-					"peak": "Platinum 1",
-					"BR Rank": "Silver 1",
-					"ZB Rank": "Unranked",
-					"BR Reload Rank": "Bronze 2",
-					"ZB Reload Rank": "Bronze 2",
-					"Ballistic": "Bronze 3",
-					"Peak Rank": "Platinum 1",
-					"Clan Rank": "#7",
-					"clankRank": "#7"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/1180329702162960516/754acf4977f597ac717371112b245d68.webp"
-		},
-		{
-			"id": 7,
-			"name": "CCR Halo",
-			"role": "Member",
-			"description": "No Description Set",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Unranked",
-					"peak": "Silver 3",
-					"BR Rank": "Unranked",
-					"ZB Rank": "Unranked",
-					"BR Reload Rank": "Unranked",
-					"ZB Reload Rank": "Unranked",
-					"Ballistic": "Unranked",
-					"Peak Rank": "Silver 3",
-					"Clan Rank": "#8",
-					"clankRank": "#8"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://picsum.photos/200/300?grayscale"
-		},
-		{
-			"id": 8,
-			"name": "CCR Cactus",
-			"role": "Admin",
-			"description": "No Description Set",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Champion",
-					"peak": "Champion",
-					"BR Rank": "Silver 1",
-					"ZB Rank": "Bronse 3",
-					"BR Reload Rank": "Champion",
-					"ZB Reload Rank": "Unranked",
-					"Ballistic": "Gold 3",
-					"Peak Rank": "Champion",
-					"Clan Rank": "#4",
-					"clankRank": "#4"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://cdn.discordapp.com/avatars/813168384266469426/8c4aa76ec678eb14ae27074df5255309.webp?size=1024&format=webp&width=768&height=768"
-		},
-		{
-			"id": 9,
-			"name": "Placeholder",
-			"role": "Member",
-			"description": "No Description Set",
-			"ranks": [
-				{
-					"game": "Fortnite",
-					"rank": "Unknown",
-					"peak": "Unknown",
-					"BR Rank": "Unknown",
-					"ZB Rank": "Unknown",
-					"BR Reload Rank": "Unknown",
-					"ZB Reload Rank": "Unknown",
-					"Ballistic": "Unknown",
-					"Peak Rank": "Unknown",
-					"Clan Rank": "#9",
-					"clankRank": "#9"
-				}
-			],
-			"socials": [
-				{
-					"name": "Discord",
-					"link": "#"
-				},
-				{
-					"name": "Twitter",
-					"link": "#"
-				},
-				{
-					"name": "Tiktok",
-					"link": "#"
-				},
-				{
-					"name": "Spotify",
-					"link": "#"
-				}
-			],
-			"profileImage": "https://picsum.photos/200/300?grayscale"
-		}
-	]
+    "players": [
+        {
+            "id": 1,
+            "name": "CCR Astra",
+            "role": "Leader",
+            "description": "I own the clan :D",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Diamond 3",
+                    "peak": "Unreal",
+                    "BR Rank": "Silver 3",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Diamond 2",
+                    "ZB Reload Rank": "Silver 3",
+                    "Ballistic": "Diamond 3",
+                    "Peak Rank": "Unreal",
+                    "Clan Rank": "#2",
+                    "clankRank": "#2"
+                },
+                {
+                    "game": "Overwatch 2",
+                    "rank": "Gold 2",
+                    "peak": "Platinum 5",
+                    "Peak Rank": "Platinum 5",
+                    "Clan Rank": "#1",
+                    "clankRank": "#1",
+                    "Device": "Console"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": ""
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/899fbead31f82b49b455096135ee4c2c.webp?size=1024&format=webp&width=768&height=768"
+        },
+        {
+            "id": 2,
+            "name": "Cattn",
+            "role": "Co-Leader",
+            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unreal",
+                    "peak": "Unreal",
+                    "BR Rank": "Gold 2",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Platinum 3",
+                    "ZB Reload Rank": "Diamond 3",
+                    "Ballistic": "Unreal",
+                    "Peak Rank": "Unreal",
+                    "Clan Rank": "#1",
+                    "clankRank": "#1"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/d6b9246a30bd8d2600165827f772b6c1.webp?size=1024&format=webp&width=768&height=768"
+        },
+        {
+            "id": 3,
+            "name": "CCR Azrael",
+            "role": "Co-Leader",
+            "description": "CCR Azrael is a rambunctious Co-Leader of CCR, very involved but not too active.",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Silver 3",
+                    "peak": "Diamond 2",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Unranked",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Gold 1",
+                    "Peak Rank": "Diamond 2",
+                    "Clan Rank": "#3",
+                    "clankRank": "#3"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitch",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1330715541245132804/78befadbffe3efd038fd02aae4bf0b56.webp?size=1024&format=webp&width=768&height=768"
+        },
+        {
+            "id": 4,
+            "name": "CCR Drift",
+            "role": "Competitive Member",
+            "description": "Casual but Competitive Gamer who plays a variety of different games.",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#5",
+                    "clankRank": "#5"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/973034664396730388/e29068b2a9def91fa8f12f7109d7d95d.webp"
+        },
+        {
+            "id": 5,
+            "name": "CCR Deiker51",
+            "role": "Competitive Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#6",
+                    "clankRank": "#6"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/934327827472465920/b0408bd30f065aa39f0df85421db261b.webp?size=1024&format=webp&width=768&height=768"
+        },
+        {
+            "id": 6,
+            "name": "CCR Blade",
+            "role": "Member",
+            "description": "He's just better.",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Platinum 1",
+                    "BR Rank": "Silver 1",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Bronze 2",
+                    "ZB Reload Rank": "Bronze 2",
+                    "Ballistic": "Bronze 3",
+                    "Peak Rank": "Platinum 1",
+                    "Clan Rank": "#7",
+                    "clankRank": "#7"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1180329702162960516/754acf4977f597ac717371112b245d68.webp"
+        },
+        {
+            "id": 7,
+            "name": "CCR Halo",
+            "role": "Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unranked",
+                    "peak": "Silver 3",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Unranked",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Unranked",
+                    "Peak Rank": "Silver 3",
+                    "Clan Rank": "#8",
+                    "clankRank": "#8"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+            "id": 8,
+            "name": "CCR Cactus",
+            "role": "Admin",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Champion",
+                    "peak": "Champion",
+                    "BR Rank": "Silver 1",
+                    "ZB Rank": "Bronse 3",
+                    "BR Reload Rank": "Champion",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Gold 3",
+                    "Peak Rank": "Champion",
+                    "Clan Rank": "#4",
+                    "clankRank": "#4"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/813168384266469426/8c4aa76ec678eb14ae27074df5255309.webp?size=1024&format=webp&width=768&height=768"
+        },
+        {
+            "id": 9,
+            "name": "Placeholder",
+            "role": "Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#9",
+                    "clankRank": "#9"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "#"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "#"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "#"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://picsum.photos/200/300?grayscale"
+        }
+    ]
 }
