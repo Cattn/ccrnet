@@ -4,8 +4,7 @@
 
 <div class="mx-6 mt-12 flex flex-col items-center justify-center">
 	<h1 class="oswald-font text-4xl font-black">Minecraft Server</h1>
-	<p class="mt-2 text-xl text-gray-400">CCR hosts a <u>Public</u> Minceraft: Bedrock Edition realm! This realms includes a series of addons, such as the Better on Bedrock mod. With each "season", the mods and features of the realm change.
-The realm was created by only two people! CCR Astra and CCR Azrael. You can join the realm with this link: <a href="https://realms.gg/vyXXQjRz__A7_KA">realms.gg/vyXXQjRz__A7_KA</a>. Addon Ons list coming soon, Realm Link Button coming soon.</p>
+	<p class="mt-2 text-xl text-gray-400">Unfortunatly, we had to close the CCR Realm because we are broke and can't pau for it all the time. This page will update if the realm becomes available again.</p>
 </div>
 
 <style>
