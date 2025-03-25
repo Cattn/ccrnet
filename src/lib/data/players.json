@@ -4,7 +4,7 @@
 			"id": 1,
 			"name": "CCR Astra",
 			"role": "Leader",
-			"description": "CCR Astra is the leader of the clan!",
+			"description": "I own the clan :D",
 			"ranks": [
 				{
 					"game": "Fortnite",
@@ -40,14 +40,14 @@
 				},
 				{
 					"name": "Tiktok",
-					"link": "https://www.tiktok.com/@ccr_astra"
+					"link": "#"
 				},
 				{
 					"name": "Spotify",
 					"link": "#"
 				}
 			],
-			"profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/6c0b8a554c93c836b2bfecc5c5f61d13.webp"
+			"profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/899fbead31f82b49b455096135ee4c2c.webp?size=1024&format=webp&width=768&height=768"
 		},
 		{
 			"id": 2,
@@ -86,7 +86,7 @@
 					"link": "#"
 				}
 			],
-			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/9eb2310f25c0c3f34b8b84496c3a1fe2.webp"
+			"profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/d6b9246a30bd8d2600165827f772b6c1.webp?size=1024&format=webp&width=768&height=768"
 		},
 
 		{
@@ -120,14 +120,14 @@
 				},
 				{
 					"name": "Tiktok",
-					"link": "https://www.tiktok.com/@ccr_azrael"
+					"link": "#"
 				},
 				{
 					"name": "Twitch",
-					"link": "https://www.twitch.tv/ccr_azrael1927"
+					"link": "#"
 				}
 			],
-			"profileImage": "https://picsum.photos/200/300?grayscale"
+			"profileImage": "https://cdn.discordapp.com/avatars/1330715541245132804/78befadbffe3efd038fd02aae4bf0b56.webp?size=1024&format=webp&width=768&height=768"
 		},
 
 		{
@@ -200,14 +200,14 @@
 				},
 				{
 					"name": "Tiktok",
-					"link": "https://www.tiktok.com/@mekiel_29?_t=ZT-8szzvjjVLzP&_r=1"
+					"link": "#"
 				},
 				{
 					"name": "Spotify",
 					"link": "#"
 				}
 			],
-			"profileImage": "https://cdn.discordapp.com/avatars/934327827472465920/7721e2ba5338eb47087c38a392ef3c92.png"
+			"profileImage": "https://cdn.discordapp.com/avatars/934327827472465920/b0408bd30f065aa39f0df85421db261b.webp?size=1024&format=webp&width=768&height=768"
 		},
 		{
 			"id": 6,
