@@ -29,42 +29,49 @@
 	const filterKeys = (keys: string[]) => keys.filter((key) => /^[A-Z]/.test(key));
 </script>
 
-<div class="mx-6 mt-12 flex flex-col items-center justify-center">
-	<h1 class="oswald-font text-4xl font-black">Rankings</h1>
-	<p class="mt-2 text-xl text-gray-400">Clan Leaderboard</p>
+<div class="mx-auto mt-8 flex w-full max-w-7xl flex-col items-center justify-center px-4 sm:px-6">
+	<h1 class="oswald-font text-3xl font-black sm:text-4xl">Rankings</h1>
+	<p class="mt-2 text-lg text-gray-400 sm:text-xl">Clan Leaderboard</p>
 </div>
 
 {#each uniqueGames as game}
-	<div class="mx-auto mt-8 flex w-[90%] flex-col items-center justify-center sm:w-[70%]">
-		<h2 class="text-2xl font-bold">{game}</h2>
-		<Table.Root>
-			<Table.Header>
-				<Table.Row>
-					<Table.Head class="w-[200px]">Player</Table.Head>
-					{#each Array.from(new Set(typedPlayers.flatMap((player) => player.ranks
+	<div class="mx-auto mt-8 flex w-full max-w-7xl flex-col items-center justify-center px-4 sm:px-6">
+		<h2 class="text-xl font-bold sm:text-2xl">{game}</h2>
+		<div class="mt-4 w-full overflow-x-auto">
+			<Table.Root class="min-w-full">
+				<Table.Header>
+					<Table.Row>
+						<Table.Head class="w-[150px] sm:w-[200px]">Player</Table.Head>
+						{#each Array.from(new Set(typedPlayers.flatMap((player) => player.ranks
 									.filter((rank) => rank.game === game)
 									.flatMap( (rank) => filterKeys(Object.keys(rank).filter((key) => key !== 'game')) )))) as stat}
-						<Table.Head>{stat.charAt(0).toUpperCase() + stat.slice(1)}</Table.Head>
-					{/each}
-				</Table.Row>
-			</Table.Header>
-			<Table.Body>
-				{#each typedPlayers as player}
-					{#if player.ranks.some((rank) => rank.game === game)}
+							<Table.Head class="whitespace-nowrap">{stat.charAt(0).toUpperCase() + stat.slice(1)}</Table.Head>
+						{/each}
+					</Table.Row>
+				</Table.Header>
+				<Table.Body>
+					{#each typedPlayers
+						.filter((player) => player.ranks.some((rank) => rank.game === game))
+						.sort((a, b) => {
+							const aRank = a.ranks.find((rank) => rank.game === game)?.['Clan Rank'];
+							const bRank = b.ranks.find((rank) => rank.game === game)?.['Clan Rank'];
+							if (!aRank || !bRank) return 0;
+							return parseInt(aRank.replace('#', '')) - parseInt(bRank.replace('#', ''));
+						}) as player}
 						<Table.Row>
 							<Table.Cell class="font-medium">{player.name}</Table.Cell>
 							{#each Array.from(new Set(typedPlayers.flatMap((player) => player.ranks
 											.filter((rank) => rank.game === game)
 											.flatMap( (rank) => filterKeys(Object.keys(rank).filter((key) => key !== 'game')) )))) as stat}
-								<Table.Cell
+								<Table.Cell class="whitespace-nowrap"
 									>{player.ranks.find((rank) => rank.game === game)?.[stat] || 'N/A'}</Table.Cell
 								>
 							{/each}
 						</Table.Row>
-					{/if}
-				{/each}
-			</Table.Body>
-		</Table.Root>
+					{/each}
+				</Table.Body>
+			</Table.Root>
+		</div>
 	</div>
 {/each}
 

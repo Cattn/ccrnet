@@ -30,74 +30,75 @@
 </script>
 
 {#if data.player}
-	<div class="mx-auto ml-10 mr-10 mt-12 flex items-center justify-center">
-		<img
-			class="ml-5 mr-5 h-32 w-32 rounded-full border-2 border-cyan-400"
-			alt="{data.player.name} Avatar"
-			src={data.player.profileImage}
-		/>
-		<div class="ml-5 mr-5">
-			<h1 class="oswald-font-players text-4xl font-bold text-cyan-400">
-				{data.player.name} · {data.player.role} · #{data.player.id}
-			</h1>
-			<p class="mt-2 text-xl text-gray-400">{data.player.description}</p>
-			<div class="flex">
-				{#if data.player.socials}
-					{#each data.player.socials as social, i}
-						<!-- svelte-ignore attribute_quoted -->
-						<div class="oswald-font-players">
-							<Button href={social.link} variant="link" class="p-0 hover:text-cyan-200"
-								>{social.name}</Button
-							>
-						</div>
-						{#if i < data.player.socials.length - 1}
-							<h1 class="ml-2 mr-2 text-3xl text-blue-400">·</h1>
-						{/if}
-					{/each}
-				{/if}
+	<div class="mx-auto mt-8 flex w-full max-w-7xl flex-col items-center px-4 sm:px-6">
+		<div class="flex w-full flex-col items-center gap-6 sm:flex-row sm:items-start">
+			<img
+				class="h-24 w-24 rounded-full border-2 border-cyan-400 sm:h-32 sm:w-32"
+				alt="{data.player.name} Avatar"
+				src={data.player.profileImage}
+			/>
+			<div class="flex flex-col items-center text-center sm:items-start sm:text-left">
+				<h1 class="oswald-font-players text-2xl font-bold text-cyan-400 sm:text-3xl">
+					{data.player.name} · {data.player.role} · #{data.player.id}
+				</h1>
+				<p class="mt-2 text-base text-gray-400 sm:text-lg">{data.player.description}</p>
+				<div class="mt-4 flex flex-wrap justify-center gap-2 sm:justify-start">
+					{#if data.player.socials}
+						{#each data.player.socials as social, i}
+							<div class="oswald-font-players">
+								<Button href={social.link} variant="link" class="p-0 text-sm hover:text-cyan-200 sm:text-base"
+									>{social.name}</Button
+								>
+								{#if i < data.player.socials.length - 1}
+									<span class="mx-2 text-blue-400">·</span>
+								{/if}
+							</div>
+						{/each}
+					{/if}
+				</div>
 			</div>
 		</div>
 	</div>
 	<hr class="my-8 border-t-2 border-gray-300" />
 
-	<div class="mx-auto mt-12 flex items-center justify-center">
-		<h1 class="text-2xl font-bold text-rose-300">Rankings</h1>
-	</div>
-	<div class="mx-auto mt-4 flex w-[90%] items-center justify-center sm:w-[50%]">
-		<Table.Root>
-			<Table.Header>
-				<Table.Row>
-					<Table.Head class="w-[200px]">Game</Table.Head>
-					<Table.Head>Rank</Table.Head>
-					<Table.Head>Peak Rank</Table.Head>
-					<Table.Head class="text-right">Clan Ranking</Table.Head>
-				</Table.Row>
-			</Table.Header>
-			<Table.Body>
-				{#each data.player.ranks as rank: Rank}
+	<div class="mx-auto mt-8 flex w-full max-w-7xl flex-col items-center px-4 sm:px-6">
+		<h1 class="text-xl font-bold text-rose-300 sm:text-2xl">Rankings</h1>
+		<div class="mt-4 w-full overflow-x-auto">
+			<Table.Root class="min-w-full">
+				<Table.Header>
 					<Table.Row>
-						<Table.Cell class="font-medium">{rank.game}</Table.Cell>
-						<Table.Cell>{rank.rank}</Table.Cell>
-						<Table.Cell>{rank.peak}</Table.Cell>
-						<Table.Cell class="text-right">
-							{#if 'clanRank' in rank}
-								{rank.clanRank}
-							{:else if 'Clan Rank' in rank}
-								{rank['Clan Rank']}
-							{:else if 'clankRank' in rank}
-								{rank.clankRank}
-							{:else}
-								N/A
-							{/if}
-						</Table.Cell>
+						<Table.Head class="w-[150px] sm:w-[200px]">Game</Table.Head>
+						<Table.Head>Rank</Table.Head>
+						<Table.Head>Peak Rank</Table.Head>
+						<Table.Head class="text-right">Clan Ranking</Table.Head>
 					</Table.Row>
-				{/each}
-			</Table.Body>
-		</Table.Root>
+				</Table.Header>
+				<Table.Body>
+					{#each data.player.ranks as rank: Rank}
+						<Table.Row>
+							<Table.Cell class="font-medium">{rank.game}</Table.Cell>
+							<Table.Cell>{rank.rank}</Table.Cell>
+							<Table.Cell>{rank.peak}</Table.Cell>
+							<Table.Cell class="text-right">
+								{#if 'clanRank' in rank}
+									{rank.clanRank}
+								{:else if 'Clan Rank' in rank}
+									{rank['Clan Rank']}
+								{:else if 'clankRank' in rank}
+									{rank.clankRank}
+								{:else}
+									N/A
+								{/if}
+							</Table.Cell>
+						</Table.Row>
+					{/each}
+				</Table.Body>
+			</Table.Root>
+		</div>
 	</div>
 {:else}
-	<div class="mx-auto mt-12 flex items-center justify-center">
-		<h1 class="text-2xl font-bold text-rose-300">Player Not Found!</h1>
+	<div class="mx-auto mt-8 flex w-full max-w-7xl items-center justify-center px-4 sm:px-6">
+		<h1 class="text-xl font-bold text-rose-300 sm:text-2xl">Player Not Found!</h1>
 	</div>
 {/if}
 
