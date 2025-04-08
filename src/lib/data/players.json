@@ -329,6 +329,38 @@
         },
         {
             "id": 9,
+            "name": "CCR Bandoe",
+            "role": "Member",
+            "description": "Competitive Call of Duty Player",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#9",
+                    "clankRank": "#9"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Instagram",
+                    "link": "https://www.instagram.com/ccr_bandoe_/"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "https://www.tiktok.com/@goofy_13_colonie"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1162273567724015649/e6f2d10643e8bf7a9de8761dcf086306.webp?size=1024&format=webp&width=768&height=768"
+        },
+        {
+            "id": 10,
             "name": "Placeholder",
             "role": "Member",
             "description": "No Description Set",
@@ -343,8 +375,8 @@
                     "ZB Reload Rank": "Unknown",
                     "Ballistic": "Unknown",
                     "Peak Rank": "Unknown",
-                    "Clan Rank": "#9",
-                    "clankRank": "#9"
+                    "Clan Rank": "#10",
+                    "clankRank": "#10"
                 }
             ],
             "socials": [
