@@ -151,19 +151,7 @@
             ],
             "socials": [
                 {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
+                    "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
@@ -190,19 +178,7 @@
             ],
             "socials": [
                 {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
+                    "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
@@ -229,19 +205,7 @@
             ],
             "socials": [
                 {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
+                    "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
@@ -269,19 +233,7 @@
             ],
             "socials": [
                 {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
+                    "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
@@ -309,23 +261,11 @@
             ],
             "socials": [
                 {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
+                    "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
-            "profileImage": "https://picsum.photos/200/300?grayscale"
+            "profileImage": "https://cdn.discordapp.com/avatars/1297055649795936287/6f0157cd97ead0277cfc7a557efd3fc7.webp?size=1024&format=webp&width=768&height=768"
         },
         {
             "id": 9,
