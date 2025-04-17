@@ -39,9 +39,9 @@
 					<div class="flex flex-col items-center sm:items-start">
 						<h3 class="oswald-font-players text-lg font-bold text-gray-100">Connect</h3>
 						<div class="mt-4 flex flex-col gap-2">
-							<a href="https://twitter.com/example" class="text-sm text-gray-400 hover:text-blue-400">Twitter</a>
-							<a href="https://facebook.com/example" class="text-sm text-gray-400 hover:text-purple-400">Tiktok</a>
-							<a href="https://instagram.com/example" class="text-sm text-gray-400 hover:text-pink-400">Twitch</a>
+							<a href="https://x.com/CCRClan" class="text-sm text-gray-400 hover:text-blue-400">Twitter</a>
+							<a href="https://www.tiktok.com/@ccrclan27" class="text-sm text-gray-400 hover:text-pink-400">Tiktok</a>
+							<a href="https://twitch.com" class="text-sm text-gray-400 hover:text-purple-400">Twitch</a>
 						</div>
 					</div>
 					<div class="flex flex-col items-center sm:items-start">
