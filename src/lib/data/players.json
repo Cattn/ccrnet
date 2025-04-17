@@ -32,11 +32,11 @@
             "socials": [
                 {
                     "name": "Github",
-                    "link": "https://github.com/CCRAstra-official"
+                    "link": "https://github.com/CCRAstra"
                 },
                 {
-                    "name": "Xbox",
-                    "link": "https://www.xbox.com/en-US/play/user/CCR%20Astra"
+                    "name": "Discord",
+                    "link": "https://discord.com/users/1013379393629982762"
                 },
                 {
                     "name": "Tiktok",
@@ -159,60 +159,6 @@
         },
         {
             "id": 5,
-            "name": "CCR Drift",
-            "role": "Member",
-            "description": "Casual but Competitive Gamer who plays a variety of different games.",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Unknown",
-                    "peak": "Unknown",
-                    "BR Rank": "Unknown",
-                    "ZB Rank": "Unknown",
-                    "BR Reload Rank": "Unknown",
-                    "ZB Reload Rank": "Unknown",
-                    "Peak Rank": "Unknown",
-                    "Clan Rank": "#7",
-                    "clankRank": "#7"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "No Socials Linked",
-                    "link": "#"
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/973034664396730388/e29068b2a9def91fa8f12f7109d7d95d.webp"
-        },
-        {
-            "id": 6,
-            "name": "CCR Deiker51",
-            "role": "Member",
-            "description": "No Description Set",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Unknown",
-                    "peak": "Unknown",
-                    "BR Rank": "Unknown",
-                    "ZB Rank": "Unknown",
-                    "BR Reload Rank": "Unknown",
-                    "ZB Reload Rank": "Unknown",
-                    "Peak Rank": "Unknown",
-                    "Clan Rank": "#8",
-                    "clankRank": "#8"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "No Socials Linked",
-                    "link": "#"
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/934327827472465920/b0408bd30f065aa39f0df85421db261b.webp?size=1024&format=webp&width=768&height=768"
-        },
-        {
-            "id": 7,
             "name": "CCR Blade",
             "role": "Member",
             "description": "He's just better.",
@@ -240,7 +186,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/1180329702162960516/754acf4977f597ac717371112b245d68.webp"
         },
         {
-            "id": 8,
+            "id": 6,
             "name": "CCR Halo",
             "role": "Member",
             "description": "No Description Set",
@@ -268,7 +214,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/1297055649795936287/6f0157cd97ead0277cfc7a557efd3fc7.webp?size=1024&format=webp&width=768&height=768"
         },
         {
-            "id": 9,
+            "id": 7,
             "name": "CCR Bandoe",
             "role": "Member",
             "description": "Competitive Call of Duty Player",
@@ -297,10 +243,10 @@
                     "link": "https://www.tiktok.com/@goofy_13_colonie"
                 }
             ],
-            "profileImage": "https://cdn.discordapp.com/avatars/1162273567724015649/f54afc0efe048a69d3b281fa13954db6.webp?size=1024&format=webp&width=768&height=768"
+            "profileImage": "https://cdn.discordapp.com/avatars/1162273567724015649/027220287fd665ab9394939fad23fd51.webp?size=1024&format=webp&width=768&height=768"
         },
         {
-            "id": 10,
+            "id": 8,
             "name": "Placeholder",
             "role": "Member",
             "description": "No Description Set",
