@@ -53,7 +53,7 @@
 					</div>
 				</div>
 				<div class="mt-12 border-t border-gray-800 pt-8">
-					<p class="text-center text-xs text-gray-500">© 2024 CCR Clan & Cattn. All rights reserved.</p>
+					<p class="text-center text-xs text-gray-500">© 2025 CCR Clan & Cattn. All rights reserved.</p>
 				</div>
 			</div>
 		</footer>
