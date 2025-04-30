@@ -31,6 +31,10 @@
             ],
             "socials": [
                 {
+                    "name": "Email",
+                    "link": "mailto:astra@ccrclan.org"
+                },
+                {
                     "name": "Github",
                     "link": "https://github.com/CCRAstra"
                 },
@@ -45,10 +49,6 @@
                 {
                     "name": "Spotify",
                     "link": "https://open.spotify.com/user/21kmliudiu3gu4p6kxdmxtzhy?si=8505a0d6d6854ae6"
-                },
-                {
-                    "name": "Email (In Testing)",
-                    "link": "mailto:astra@ccrclan.org"
                 }
             ],
             "profileImage": "https://cdn.discordapp.com/avatars/1013379393629982762/e45469f5df0e92ad9590c8da183bf0f7.webp?size=1024&format=webp&width=768&height=768"
@@ -74,6 +74,10 @@
                 }
             ],
             "socials": [
+                {
+                    "name": "Email",
+                    "link": "mailto:cattn@ccrclan.org"
+                },
                 {
                     "name": "Discord",
                     "link": "#"
@@ -115,6 +119,10 @@
             ],
             "socials": [
                 {
+                    "name": "Email",
+                    "link": "mailto:azrael@ccrclan.org"
+                },
+                {
                     "name": "Discord",
                     "link": "#"
                 },
@@ -155,8 +163,8 @@
             ],
             "socials": [
                 {
-                    "name": "No Socials Linked",
-                    "link": "#"
+                    "name": "Email",
+                    "link": "mailto:cactus@ccrclan.org"
                 }
             ],
             "profileImage": "https://cdn.discordapp.com/avatars/813168384266469426/8c4aa76ec678eb14ae27074df5255309.webp?size=1024&format=webp&width=768&height=768"
