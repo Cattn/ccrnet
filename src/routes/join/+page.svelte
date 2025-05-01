@@ -4,6 +4,7 @@
 
 <div class="mx-auto mt-8 flex w-full max-w-7xl flex-col items-center justify-center px-4 sm:px-6">
 	<h1 class="oswald-font text-2xl font-black underline sm:text-4xl">How to Join</h1>
+<p class="mt-4 text-center text-base text-gray-400 sm:text-lg">CCR is a very tight-knit community. When you apply, you may be interviewed and asked a whole bunch of questions regarding anything. We are not accepting any new members at this time.</p>
 	<Button
 		href="https://discord.gg/5DqAzjSh9C"
 		variant="secondary"
