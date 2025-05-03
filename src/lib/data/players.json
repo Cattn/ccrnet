@@ -4,28 +4,28 @@
             "id": 1,
             "name": "CCR Astra",
             "role": "Leader",
-            "description": "I own the clan :D",
+            "description": "Cattn's #1 Fan",
             "ranks": [
                 {
                     "game": "Fortnite",
-                    "rank": "Diamond 3",
+                    "rank": "Unranked",
                     "peak": "Unreal",
-                    "BR Rank": "Silver 3",
+                    "BR Rank": "Unranked",
                     "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Diamond 2",
-                    "ZB Reload Rank": "Silver 3",
-                    "Ballistic": "Diamond 3",
+                    "BR Reload Rank": "Unranked",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Unranked",
                     "Peak Rank": "Unreal",
                     "Clan Rank": "#2",
                     "clankRank": "#2"
                 },
                 {
                     "game": "Overwatch 2",
-                    "rank": "Gold 2",
+                    "rank": "Unranked",
                     "peak": "Platinum 5",
                     "Peak Rank": "Platinum 5",
-                    "Clan Rank": "#1",
-                    "clankRank": "#1",
+                    "Clan Rank": "#2",
+                    "clankRank": "#2",
                     "Device": "Console"
                 }
             ],
@@ -63,11 +63,11 @@
                     "game": "Fortnite",
                     "rank": "Unreal",
                     "peak": "Unreal",
-                    "BR Rank": "Gold 2",
+                    "BR Rank": "Unranked",
                     "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Platinum 3",
-                    "ZB Reload Rank": "Diamond 3",
-                    "Ballistic": "Unreal",
+                    "BR Reload Rank": "Gold 2",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Unranked",
                     "Peak Rank": "Unreal",
                     "Clan Rank": "#1",
                     "clankRank": "#1"
@@ -77,22 +77,6 @@
                 {
                     "name": "Email",
                     "link": "mailto:cattn@ccrclan.org"
-                },
-                {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
-                    "link": "#"
                 }
             ],
             "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/d6b9246a30bd8d2600165827f772b6c1.webp?size=1024&format=webp&width=768&height=768"
@@ -105,13 +89,13 @@
             "ranks": [
                 {
                     "game": "Fortnite",
-                    "rank": "Silver 3",
+                    "rank": "Unranked",
                     "peak": "Diamond 2",
                     "BR Rank": "Unranked",
                     "ZB Rank": "Unranked",
                     "BR Reload Rank": "Unranked",
                     "ZB Reload Rank": "Unranked",
-                    "Ballistic": "Gold 1",
+                    "Ballistic": "Unranked",
                     "Peak Rank": "Diamond 2",
                     "Clan Rank": "#4",
                     "clankRank": "#4"
@@ -121,22 +105,6 @@
                 {
                     "name": "Email",
                     "link": "mailto:azrael@ccrclan.org"
-                },
-                {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitch",
-                    "link": "#"
                 }
             ],
             "profileImage": "https://cdn.discordapp.com/avatars/1330715541245132804/60c880ed650c5ceecaced2c5bf7f5b6e.webp?size=1024&format=webp&width=768&height=768"
@@ -149,16 +117,16 @@
             "ranks": [
                 {
                     "game": "Fortnite",
-                    "rank": "Champion",
+                    "rank": "Silver 3",
                     "peak": "Champion",
-                    "BR Rank": "Silver 1",
-                    "ZB Rank": "Bronse 3",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Bronze 2",
                     "BR Reload Rank": "Champion",
-                    "ZB Reload Rank": "Unranked",
-                    "Ballistic": "Gold 3",
+                    "ZB Reload Rank": "Silver 3",
+                    "Ballistic": "Unranked",
                     "Peak Rank": "Champion",
-                    "Clan Rank": "#3",
-                    "clankRank": "#3"
+                    "Clan Rank": "#2",
+                    "clankRank": "#2"
                 }
             ],
             "socials": [
@@ -179,11 +147,11 @@
                     "game": "Fortnite",
                     "rank": "Unknown",
                     "peak": "Platinum 1",
-                    "BR Rank": "Silver 1",
+                    "BR Rank": "Unranked",
                     "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Bronze 2",
-                    "ZB Reload Rank": "Bronze 2",
-                    "Ballistic": "Bronze 3",
+                    "BR Reload Rank": "Unranked",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Unranked",
                     "Peak Rank": "Platinum 1",
                     "Clan Rank": "#5",
                     "clankRank": "#5"
