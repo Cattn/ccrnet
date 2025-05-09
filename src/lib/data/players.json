@@ -12,7 +12,7 @@
                     "peak": "Unreal",
                     "BR Rank": "Unranked",
                     "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Unranked",
+                    "BR Reload Rank": "Platinum 3",
                     "ZB Reload Rank": "Unranked",
                     "Ballistic": "Unranked",
                     "Peak Rank": "Unreal",
@@ -22,10 +22,14 @@
                 {
                     "game": "Overwatch 2",
                     "rank": "Unranked",
+                    "Tank": "Unranked",
+                    "Damage": "Unranked",
+                    "Support": "Unranked",
+                    "Open Queue": "Unranked",
                     "peak": "Platinum 5",
                     "Peak Rank": "Platinum 5",
-                    "Clan Rank": "#2",
-                    "clankRank": "#2",
+                    "Clan Rank": "#1",
+                    "clankRank": "#1",
                     "Device": "Console"
                 }
             ],
@@ -71,6 +75,19 @@
                     "Peak Rank": "Unreal",
                     "Clan Rank": "#1",
                     "clankRank": "#1"
+                },
+                {
+                    "game": "Overwatch 2",
+                    "rank": "Unranked",
+                    "Tank": "Unranked",
+                    "Damage": "Unranked",
+                    "Support": "Unranked",
+                    "Open Queue": "Unranked",
+                    "peak": "Unranked",
+                    "Peak Rank": "Unranked",
+                    "Clan Rank": "#2",
+                    "clankRank": "#2",
+                    "Device": "Console"
                 }
             ],
             "socials": [
@@ -97,8 +114,8 @@
                     "ZB Reload Rank": "Unranked",
                     "Ballistic": "Unranked",
                     "Peak Rank": "Diamond 2",
-                    "Clan Rank": "#4",
-                    "clankRank": "#4"
+                    "Clan Rank": "#5",
+                    "clankRank": "#5"
                 }
             ],
             "socials": [
@@ -121,7 +138,7 @@
                     "peak": "Champion",
                     "BR Rank": "Unranked",
                     "ZB Rank": "Bronze 2",
-                    "BR Reload Rank": "Unranked",
+                    "BR Reload Rank": "Platinum 3",
                     "ZB Reload Rank": "Silver 3",
                     "Ballistic": "Unranked",
                     "Peak Rank": "Champion",
@@ -149,12 +166,12 @@
                     "peak": "Platinum 1",
                     "BR Rank": "Unranked",
                     "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Unranked",
+                    "BR Reload Rank": "Bronze 2",
                     "ZB Reload Rank": "Unranked",
                     "Ballistic": "Unranked",
                     "Peak Rank": "Platinum 1",
-                    "Clan Rank": "#5",
-                    "clankRank": "#5"
+                    "Clan Rank": "#4",
+                    "clankRank": "#4"
                 }
             ],
             "socials": [
